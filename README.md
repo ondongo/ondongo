@@ -2,7 +2,7 @@
   width="100%"
   title="Greeting Words"
   alt="CoderAbhi.0713"
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Merci%20de%20ta%20visite%20🔰&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Merci%20de%20ta%20visite%20👋🏽&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"
 />
 
 
