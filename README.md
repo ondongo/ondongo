@@ -192,7 +192,7 @@
         <br>SQLite
       </td>
      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=firestore" alt="icon" width="65" height="65" />
+          <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
         <br>Firestore
       </td>
       <td align="center" width="96">
@@ -241,10 +241,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
       <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" alt="icon" width="65" height="65" />
-      <br>GitLab
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" alt="icon" width="65" height="65" />
