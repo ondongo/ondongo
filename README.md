@@ -177,16 +177,8 @@
         <br>SQLite
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="65" height="65" />
-        <br>MongoDB
-      </td>
-     <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=dynamodb" alt="icon" width="65" height="65" />
-        <br>DynamoDB
-      </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=redis" alt="icon" width="65" height="65" />
-        <br>Redis
+          <img src="https://skillicons.dev/icons?i=firestore" alt="icon" width="65" height="65" />
+        <br>Firestore
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="65" height="65" />
@@ -200,18 +192,6 @@
 <h1 align="center">🌟 Hosting/Cloud Services </h1>
 <table align="center">
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="65" height="65" />
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cloudflare" alt="icon" width="65" height="65" />
-      <br>Cloudflare
-    </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
       <br>Firebase
@@ -257,16 +237,8 @@
       <br>GitHub
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bitbucket" alt="icon" width="65" height="65" />
-      <br>Bitbucket
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-      <br>Kuberbetes
     </td>
   </tr>
   <tr>
@@ -279,16 +251,8 @@
       <br>Vite
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
-      <br>Jest
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
       <br>Prettier
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=apollo" alt="icon" width="65" height="65" />
-      <br>Apollo
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
@@ -311,10 +275,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="icon" width="65" height="65" />
       <br>Android
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=unity" alt="icon" width="65" height="65" />
-      <br>Unity
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />
