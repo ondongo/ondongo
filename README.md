@@ -165,25 +165,45 @@
 <table align="center">
   <tr>
       <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="65" height="65" />
-        <br>PostgreSQL
+        <br>wordpress
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=sqlite" alt="icon" width="65" height="65" />
+          <img src="https://skillicons.dev/icons?i=wordpress" alt="icon" width="65" height="65" />
         <br>SQLite
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=firestore" alt="icon" width="65" height="65" />
-        <br>Firestore
+          <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="65" height="65" />
+        <br>Flutterflow
       </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="65" height="65" />
-        <br>Prisma
-      </td>
+  </tr>
+</table>
+
+<br/>
+
+<h1 align="center">🌟 Nocode / Lowcode </h1>
+<table align="center">
+  <tr>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="65" height="65" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="65" height="65" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=netlify" alt="icon" width="65" height="65" />
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=heroku" alt="icon" width="65" height="65" />
+      <br>Heroku
+    </td>
   </tr>
 </table>
 
@@ -237,6 +257,10 @@
       <br>GitHub
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
@@ -275,10 +299,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=androidstudio" alt="icon" width="65" height="65" />
       <br>Android
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />
-      <br>Postman
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=npm" alt="icon" width="65" height="65" />
