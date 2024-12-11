@@ -137,28 +137,24 @@
       <br>Node.js
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="65" height="65" />
-      <br>Nest.js
+        <img src="https://skillicons.dev/icons?i=express" alt="icon" width="65" height="65" />
+      <br>ExpressJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="65" height="65" />
+      <br>Flask
+    </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" alt="icon" width="65" height="65" />
       <br>dotnet
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" alt="icon" width="65" height="65" />
-      <br>ExpressJS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=remix" alt="icon" width="65" height="65" />
-      <br>Remix
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="65" height="65" />
-      <br>Laravel
+        <img src="https://skillicons.dev/icons?i=symfony" alt="icon" width="65" height="65" />
+      <br>symfony
     </td>
   </tr>
 </table>
