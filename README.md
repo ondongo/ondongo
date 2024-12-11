@@ -161,7 +161,7 @@
 
 <br/>
 
-<h1 align="center">🌟 Database </h1>
+<h1 align="center">🌟Nocode / Lowcode </h1>
 <table align="center">
   <tr>
       <td align="center" width="96">
@@ -177,30 +177,28 @@
 
 <br/>
 
-<h1 align="center">🌟 Nocode / Lowcode </h1>
+<h1 align="center">🌟 Database </h1>
 <table align="center">
-  <tr>
+    <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="65" height="65" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=sqlite" alt="icon" width="65" height="65" />
+        <br>SQLite
+      </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="65" height="65" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="65" height="65" />
-      <br>Vercel
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=netlify" alt="icon" width="65" height="65" />
-      <br>Netlify
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=heroku" alt="icon" width="65" height="65" />
-      <br>Heroku
-    </td>
-  </tr>
+          <img src="https://skillicons.dev/icons?i=firestore" alt="icon" width="65" height="65" />
+        <br>Firestore
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="65" height="65" />
+        <br>Prisma
+      </td>
 </table>
 
 <br/>
