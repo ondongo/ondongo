@@ -62,10 +62,6 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       <br>python
     </td>
@@ -94,24 +90,8 @@
       <br>Next.js
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nuxt" alt="icon" width="65" height="65" />
-      <br>Nuxt.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="65" height="65" />
-      <br>Vue
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" />
       <br>Angular
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=svelte" alt="icon" width="65" height="65" />
-      <br>Svelte
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=electron" alt="icon" width="65" height="65" />
-      <br>Electron
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="65" height="65" />
@@ -128,14 +108,6 @@
       <br>Storybook
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
-      <br>Gatsby
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vuetify" alt="icon" width="65" height="65" />
-      <br>Vuetify
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65" />
       <br>Bootstrap
     </td>
@@ -150,6 +122,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=materialui" alt="icon" width="65" height="65" />
       <br>Materialui
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=chakraui" alt="icon" width="65" height="65" />
+      <br>Chakraui
     </td>
   </tr>
 </table>
