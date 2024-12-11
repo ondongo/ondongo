@@ -287,8 +287,8 @@
       <br>VS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=androidstudio" alt="icon" width="65" height="65" />
-      <br>Android
+        <img src="https://skillicons.dev/icons?i=xcode" alt="icon" width="65" height="65" />
+      <br>Xcode
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=npm" alt="icon" width="65" height="65" />
