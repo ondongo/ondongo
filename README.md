@@ -93,16 +93,16 @@
         <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" />
       <br>Angular
     </td>
+     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+      <br>Redux
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="65" height="65" />
       <br>Flutter
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-      <br>Redux
-    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" />
       <br>Storybook
