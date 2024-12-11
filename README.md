@@ -30,6 +30,7 @@
 
 <br/>
 
+<div align="center">
 <picture style="display: block; width: 100%;"  width="100%">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ondongo&show_icons=true&theme=dark"
@@ -46,7 +47,7 @@
   />
 </picture>
 
-
+</div>
 
 <h1 align="center">🌟 Programming Languages </h1>
 <div style="display: flex; align-items: flex-start; align: center">
