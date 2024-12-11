@@ -165,12 +165,8 @@
 <table align="center">
   <tr>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="65" height="65" />
-        <br>wordpress
-      </td>
-      <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=wordpress" alt="icon" width="65" height="65" />
-        <br>SQLite
+        <br>wordpress
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="65" height="65" />
