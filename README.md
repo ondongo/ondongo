@@ -31,13 +31,12 @@
 <br/>
 
 # 📊 GitHub Stats:
-[![](https://visitcount.itsvg.in/api?id=ondongo&icon=0&color=12)](https://hugodelacour.com/)
 <div style="display: flex; width: 100%; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=ondongo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000" style="width: 46%; height: 100%; object-fit: cover;" />
     <img src="https://streak-stats.demolab.com?user=ondongo&theme=dark&locale=fr&date_format=j%20M%5B%20Y%5D&background=FFFFFF00&ring=399D72&fire=399D72&currStreakLabel=399D72" alt="GitHub Streak" style="width: 50%; height: 100%; object-fit: cover;"  />
 </div>
 
-<a href="https://github.com/ondongo/github-readme-activity-graph">
+<a href="https://github.com/ondongo">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ondongo&theme=dracula&bg_color=00000000&line=17332C&point=399D72&hide_border=true&custom_title=Activité&height=300" alt="ondongo's GitHub activity graph" style="width: 100%; border: 4.5px solid #000000; border-radius: 4.5px;">
 </a>
 
