@@ -38,7 +38,7 @@
             alt="ondongo GitHub stats"
         />
     </div>
-    <div style="flex: 1;">
+    <div style="flex: 1; background:red;">
         <img 
             src="https://github-readme-activity-graph.vercel.app/graph?username=ondongo&theme=dracula&bg_color=00000000&line=17332C&point=399D72&hide_border=true&custom_title=Activité&height=300" 
             style="width: 40%; height: auto; object-fit: contain; border: 4.5px solid #000000; border-radius: 4.5px;" 
