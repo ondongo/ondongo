@@ -30,9 +30,23 @@
 
 ## 
 # 📊 GitHub Stats:
-![ondongo GitHub stats](https://github-readme-stats.vercel.app/api?username=ondongo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000)
+<div style="display: flex; width: 100%; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 300px;">
+        <img 
+            src="https://github-readme-stats.vercel.app/api?username=ondongo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000" 
+            style="width: 100%; height: auto; object-fit: contain;" 
+            alt="ondongo GitHub stats"
+        />
+    </div>
+    <div style="flex: 1; min-width: 300px;">
+        <img 
+            src="https://github-readme-activity-graph.vercel.app/graph?username=ondongo&theme=dracula&bg_color=00000000&line=17332C&point=399D72&hide_border=true&custom_title=Activité" 
+            style="width: 100%; height: auto; object-fit: contain;" 
+            alt="ondongo GitHub activity graph"
+        />
+    </div>
+</div>
 
-![ondongo GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ondongo&theme=dracula&bg_color=00000000&line=17332C&point=399D72&hide_border=true&custom_title=Activité)
 
 
 
