@@ -51,9 +51,10 @@
   <!-- Langages les plus utilisés -->
   <img
     height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondongo&layout=compact&langs_count=7&show_icons=true&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondongo&layout=compact&langs_count=8&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     alt="Langages les plus utilisés par ondongo"
+     style="width: 100%; height: auto; margin-bottom: 20px;"
   />
 </div>
 
