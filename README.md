@@ -32,11 +32,13 @@
 # 📊 GitHub Stats:
 <div style="display: flex; width: 100%; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=ondongo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000" style="width: (0%; height: 100%; object-fit: cover;" />
-</div>
 
-<a href="https://github.com/ondongo">
+  <a href="https://github.com/ondongo">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ondongo&theme=dracula&bg_color=00000000&line=17332C&point=399D72&hide_border=true&custom_title=Activité&height=300" alt="ondongo's GitHub activity graph" style="width: 100%; border: 4.5px solid #000000; border-radius: 4.5px;">
 </a>
+
+</div>
+
 
 
 <h1 align="center">🌟 Programming Languages </h1>
