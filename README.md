@@ -30,26 +30,16 @@
 
 <br/>
 
-<div align="center">
-  <!-- Statistiques GitHub -->
-  <picture style="display: block; width: 100%;" width="100%">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ondongo&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ondongo&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=ondongo&show_icons=true"
-      alt="Statistiques GitHub de ondongo"
-      style="width: 100%; height: 200px; margin-bottom: 20px;"
-    />
-  </picture>
-
- 
+# 📊 GitHub Stats:
+[![](https://visitcount.itsvg.in/api?id=ondongo&icon=0&color=12)](https://hugodelacour.com/)
+<div style="display: flex; width: 100%; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ondongo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000" style="width: 46%; height: 100%; object-fit: cover;" />
+    <img src="https://streak-stats.demolab.com?user=ondongo&theme=dark&locale=fr&date_format=j%20M%5B%20Y%5D&background=FFFFFF00&ring=399D72&fire=399D72&currStreakLabel=399D72" alt="GitHub Streak" style="width: 50%; height: 100%; object-fit: cover;"  />
 </div>
+
+<a href="https://github.com/ondongo/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ondongo&theme=dracula&bg_color=00000000&line=17332C&point=399D72&hide_border=true&custom_title=Activité&height=300" alt="ondongo's GitHub activity graph" style="width: 100%; border: 4.5px solid #000000; border-radius: 4.5px;">
+</a>
 
 
 <h1 align="center">🌟 Programming Languages </h1>
