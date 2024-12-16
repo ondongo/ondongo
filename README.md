@@ -47,6 +47,7 @@
   />
 </picture>
 
+ <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondongo&layout=compact&langs_count=7&theme=tokyonight&include"/>
 </div>
 
 <h1 align="center">🌟 Programming Languages </h1>
