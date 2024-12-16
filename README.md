@@ -30,8 +30,8 @@
 
 ## 
 # 📊 GitHub Stats:
-<div style="display: flex; width: 100%; justify-content: center;align-items:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ondongo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000" style="width: 100%; height: 100%; object-fit: cover;" />
+<div style="display: flex; width: 100%; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ondongo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000" style="width: (0%; height: 100%; object-fit: cover;" />
 </div>
 
 <a href="https://github.com/ondongo">
