@@ -34,14 +34,14 @@
     <div style="flex: 1;">
         <img 
             src="https://github-readme-stats.vercel.app/api?username=ondongo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000" 
-            style="width: 100%; height: auto; object-fit: contain;" 
+            style="width: 40%; height: auto; object-fit: contain;" 
             alt="ondongo GitHub stats"
         />
     </div>
     <div style="flex: 1;">
         <img 
             src="https://github-readme-activity-graph.vercel.app/graph?username=ondongo&theme=dracula&bg_color=00000000&line=17332C&point=399D72&hide_border=true&custom_title=Activité&height=300" 
-            style="width: 100%; height: auto; object-fit: contain; border: 4.5px solid #000000; border-radius: 4.5px;" 
+            style="width: 40%; height: auto; object-fit: contain; border: 4.5px solid #000000; border-radius: 4.5px;" 
             alt="ondongo GitHub activity graph"
         />
     </div>
