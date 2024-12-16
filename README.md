@@ -44,29 +44,26 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=ondongo&show_icons=true"
       alt="Statistiques GitHub de ondongo"
-      style="width: 100%; height: auto; margin-bottom: 20px;"
+      style="width: 100%; height: 200px; margin-bottom: 20px;"
     />
   </picture>
 
+  <!-- Langages les plus utilisés -->
   <picture style="display: block; width: 100%;" width="100%">
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ondongo&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ondongo&theme=dark&hide=html,scss,stylus,blade,jupyter%20notebook,css,python"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ondongo"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ondongo&hide=html,scss,stylus,blade,jupyter%20notebook,css,python"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-     <!-- Langages les plus utilisés -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondongo&layout=compact&langs_count=8&theme=dark&hide=html,scss,stylus,blade,jupyter%20notebook,css"
-    alt="Langages les plus utilisés par ondongo"
-    style="width: 100%; height: auto; margin-bottom: 20px;"
-  />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondongo&layout=compact&langs_count=8&theme=dark&hide=html,scss,stylus,blade,jupyter%20notebook,css,python"
+      alt="Langages les plus utilisés par ondongo"
+      style="width: 100%; height: 200px; margin-bottom: 20px;"
+    />
   </picture>
-
-
-
 </div>
 
 
