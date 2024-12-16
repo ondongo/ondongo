@@ -50,11 +50,9 @@
 
   <!-- Langages les plus utilisés -->
   <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondongo&layout=compact&langs_count=8&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondongo&layout=compact&langs_count=8&theme=dark&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript"
     alt="Langages les plus utilisés par ondongo"
-     style="width: 100%; height: auto; margin-bottom: 20px;"
+    style="width: 100%; height: auto; margin-bottom: 20px;"
   />
 </div>
 
