@@ -31,24 +31,32 @@
 <br/>
 
 <div align="center">
-<picture style="display: block; width: 100%;"  width="100%">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ondongo&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ondongo&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ondongo&show_icons=true"
-    alt="Statistiques GitHub de ondongo"
-    style="width: 100%; height: auto;"
-  />
-</picture>
+  <!-- Statistiques GitHub -->
+  <picture style="display: block; width: 100%;" width="100%">
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ondongo&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ondongo&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=ondongo&show_icons=true"
+      alt="Statistiques GitHub de ondongo"
+      style="width: 100%; height: auto; margin-bottom: 20px;"
+    />
+  </picture>
 
- <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondongo&layout=compact&langs_count=7&theme=tokyonight&include"/>
+  <!-- Langages les plus utilisés -->
+  <img
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondongo&layout=compact&langs_count=7&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    alt="Langages les plus utilisés par ondongo"
+  />
 </div>
+
 
 <h1 align="center">🌟 Programming Languages </h1>
 <div style="display: flex; align-items: flex-start; align: center">
