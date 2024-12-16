@@ -36,13 +36,11 @@
         style="width: 50%; height: 100%; object-fit: cover;" 
         alt="ondongo GitHub stats"
     />
-    <a href="https://github.com/ondongo" style="width: 50%;">
-        <img 
+      <img 
             src="https://github-readme-activity-graph.vercel.app/graph?username=ondongo&theme=dracula&bg_color=00000000&line=17332C&point=399D72&hide_border=true&custom_title=Activité&height=300" 
             alt="ondongo's GitHub activity graph" 
-            style="border: 4.5px solid #000000; border-radius: 4.5px; height: 100%;"
+          style="width: 50%; height: 100%; object-fit: cover; border: 4.5px solid #000000; border-radius: 4.5px; " 
         />
-    </a>
 </div>
 
 
