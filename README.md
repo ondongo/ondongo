@@ -32,7 +32,7 @@
 # 📊 GitHub Stats:
 ![ondongo GitHub stats](https://github-readme-stats.vercel.app/api?username=ondongo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000)
 
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ondongo&theme=vue-dark)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ondongo&theme=monokai)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ondongo&theme=dracula&bg_color=00000000&line=17332C&point=399D72&hide_border=true&custom_title=Activité)
 
