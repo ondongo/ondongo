@@ -37,6 +37,7 @@
             style="width: 100%; height: 200px; object-fit: contain;" 
             alt="ondongo GitHub stats"
         />
+      ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ondongo&theme=vue-dark)
     </div>
     <div style="flex: 1; min-width: 300px;">
         <img 
