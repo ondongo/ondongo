@@ -29,7 +29,7 @@
 
 
 ## 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <div style="display: flex; width: 100%; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
     <div style="flex: 1; min-width: 300px;">
         <img 
