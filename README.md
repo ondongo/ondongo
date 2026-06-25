@@ -15,7 +15,7 @@
 
 
 
-☀️ Dans ce domaine depuis plus de 4 ans <br/>
+☀️ Dans ce domaine depuis plus de 5 ans <br/>
 
 👍 Expertise en développement Full Stack Web, couvrant le Front-End, le Back-End, et la gestion des bases de données <br/>
 
